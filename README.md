@@ -7,7 +7,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusooo)](https://github.com/yusooo/github-readme-stats)
   ## <b> 📞Contact Me✉ </b>
   
-<a href=https://www.instagram.com/yu.so._/><img src="https://img.shields.io/badge/Insta-E4405F?style=square&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/yusaei1107@gmail.com-EA4335?style=square&logo=Instagram&logoColor=white"/> <a href="www.linkedin.com/in/yus0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<a href=https://www.instagram.com/yu.so._/><img src="https://img.shields.io/badge/Insta-E4405F?style=square&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/yusaei1107@gmail.com-EA4335?style=square&logo=Gmail&logoColor=white"/> <a href="www.linkedin.com/in/yus0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   
   
   
